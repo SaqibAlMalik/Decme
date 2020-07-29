@@ -1,0 +1,8 @@
+header {
+    display: grid;
+    grid-auto-flow: row;
+}
+
+header.ul {
+    text-align: right;
+}
